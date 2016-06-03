@@ -5,13 +5,10 @@
 #container
 {
 	margin: 0 30px;
-<<<<<<< HEAD
-=======
 	background: #pink;
 }
 body{
     background-image: url(bg.jpg);
->>>>>>> 1f2ba2d6f7d08499c6ff5153709a0e732cb79175
 }
 #header
 {
@@ -53,7 +50,7 @@ body{
     background-image: url(bg.jpg);
 }
 
-#navigation li a:hover { background:green; }
+#navigation li a:hover { background: #383; }
 
 #edito
 {
@@ -75,7 +72,7 @@ body{
 
 #edito h2
 {
-	color:pink;
+	color: #000;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -96,11 +93,7 @@ body{
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
-<<<<<<< HEAD
-	color:cyan;
-=======
     background-image: url("bg.jpg");
->>>>>>> 1f2ba2d6f7d08499c6ff5153709a0e732cb79175
 }
 
 #footer
@@ -111,7 +104,4 @@ body{
 	padding: 20px;
 	height: 1%;
     background-image: url(bg.jpg);
-}
-body{
-background:url(dab.jpg);
 }
